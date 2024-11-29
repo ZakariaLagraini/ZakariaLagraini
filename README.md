@@ -1,5 +1,5 @@
 
-![Header image](ZakariaLagraini/ZakariaLagraini/assets/github header.png)
+![Header image](ZakariaLagraini/assets/github header.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 **DevOps | Software Engineer** specialized in **Software Development** and **System Optimization**.    
 
